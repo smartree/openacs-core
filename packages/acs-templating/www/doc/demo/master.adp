@@ -1,9 +1,9 @@
 <html>
 <head>
-  <title>@doc.title@</title>
+  <title>@title@</title>
 </head>
 <body>
-<h1>@doc.title@</h1>
+<h1>@title@</h1>
 <hr>
 
 <font color=red>
